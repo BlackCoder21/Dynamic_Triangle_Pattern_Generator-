@@ -69,9 +69,6 @@ For an input of `5`, the output will be:
 - 📐 Support left-aligned and centered triangles
 - 🌐 Deploy as a live web application
 
-## License
-This project is open-source and licensed under the MIT License.
-
 ---
 **Happy Coding! 🚀**
 
